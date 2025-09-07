@@ -28,7 +28,6 @@ jobs:
       uses: actions/github-script@v6
       with:
         script: |
-          const core = require('@actions/core');
           const owner = context.repo.owner;
           const repo = context.repo.repo;
           const prNumber = context.payload.pull_request.number;
