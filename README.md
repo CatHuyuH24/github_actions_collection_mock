@@ -33,3 +33,19 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapie
 Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus.
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 **Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.**
+
+---
+
+## Technical English Guidelines
+
+When writing technical documentation, follow these best practices:
+
+- **Be Clear and Concise:** Use simple language and avoid unnecessary jargon.
+- **Use Active Voice:** Prefer "Clone the repository" over "The repository should be cloned."
+- **Be Consistent:** Use consistent terminology, formatting, and structure throughout the document.
+- **Use Proper Formatting:** Utilize headings, lists, code blocks, and emphasis to improve readability.
+- **Proofread:** Check for grammar, spelling, and punctuation errors.
+
+For more information, refer to the [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/).
+
+---
